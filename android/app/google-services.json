@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382040397831",
+    "project_id": "coldchain-shield-2026",
+    "storage_bucket": "coldchain-shield-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382040397831:android:f3492318d590d2ba65b2a2",
+        "android_client_info": {
+          "package_name": "com.example.coldchain_shield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_b-jkj2RwTnqOspGnQnKRVT6Fxvb4QcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
